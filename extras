@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Untitled Document</title>
+<link href="bern.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<div class="color">
+
+<a href="Bernie.html"> Home </a>
+<a href="bioBern.html"> Biography</a>
+<a href="BernFacts.html"> Facts </a>
+<a href="timeline.html"> Timeline </a>
+<p> <h1>EXTRA INFORMATION </h1></p> <br/>
+<hr/>
+For more information visit :
+<a href="feelthebern.org"> Feel The Bern </a>
+ or
+<a href="berniesanders.com"> His Official Page </a>
+
+</div>
+</body>
+</html>
