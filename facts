@@ -1,0 +1,42 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Untitled Document</title>
+<link href="bern.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<div class="color">
+
+
+<a href="Bernie.html"> Home </a>
+<a href="bioBern.html"> Biography</a>
+<a href="timeline.html"> Timeline </a>
+<a href="BernExtras.html"> Extras </a>
+
+<p><h1> FUN FACTS </h1></p><br/>
+<ol>
+<li><p>Sanders was the first socialist to be elected to the House of Representatives in a long time.</p></li>
+
+<li><p>Is not taking money from Wall Street to fund campaign</p>.</li>
+
+ <li><p>Was originally a part of the Liberty Union Party.</p></li>
+
+<li><p>Was fighting for gay rights in 1970.</p></li>
+
+<li><p>Won the Vermont Senatorial seat with 71 percent of the vote.</p></li>
+
+<li><p>Bernie Sanders is 74 years old.</p></li>
+
+<li><p>Bernie Sanders took 5 years to graduate from college.</p></li>
+
+<li><p>He was re-elected as Mayor of Burlington 4 times.</p></li>
+
+<li><p>Sanders has 1 child and 7 grandchildren.</p></li>
+
+<li><p>Sanders endorsed Jesse Jackson for President twice.</p></li>
+</ol>
+</div>
+
+</body>
+</html>
