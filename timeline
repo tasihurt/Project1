@@ -1,0 +1,37 @@
+<html>
+<head>
+<title> Timeline </title>
+<link href="bern.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<div class="color">
+
+
+<a href="Bernie.html"> Home </a>
+<a href="bioBern.html"> Biography</a>
+<a href="BernFacts.html"> Facts </a>
+<a href="BernExtras.html"> Extras </a> <br/>
+
+<p><h1>TIMELINE</h1></p> <br/>
+
+<p><h2>The Life of Bernie</h2></p>
+<p><h2> Early Life </h2></p>
+
+Born September 8, 1941 <br>
+
+<h2>Education 1959-1964 </h2>
+<p>Brooklyn College</p>
+<p>University of Chicago</p>
+
+<h2>Activism 1962-1963</h2>
+<p>Led a rally as a member of Student Nonviolent Coordinating Committee</p>
+<p>Attended  Martin Luther King Jr's. March on Washington</p>
+
+<h2>Political Career 1971- </h2>
+<p>Mayor of Burlington 1981-1988</p>
+<p>Congressman 1991-2006</p>
+<p>Senator of Vermont 2006-</p> 
+<p>Presidential Candidate 2015-</p>
+</div>
+</body>
+</html>
