@@ -1,0 +1,34 @@
+@charset "UTF-8";
+
+.color {
+	background-color:#3B7FB9;
+	background-size:cover;
+	background-size:auto;
+}
+
+head {
+	position:fixed;
+	align-content:flex-start;
+	align-content:flex-end;
+}
+h2 {
+	font:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color:#FFFFFF;
+		
+}
+.head {
+	align-content:flex-start;
+	align-content:flex-end;
+	margin-left: 200px;
+	max-width:1000px;
+	
+
+	
+}
+h1 {
+	font:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color:#FFFFFF;
+}
+textarea {
+	text-align:justify;
+}
